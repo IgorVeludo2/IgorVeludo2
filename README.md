@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile!
 
-- 🔭 I'm a Full Stack Developer at [Fridom](https://www.linkedin.com/company/friomd/mycompany/)
+- 🔭 I'm a Full Stack Developer at [Hurb](https://www.linkedin.com/company/hurb/)
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/igorveludo/)
 
