@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my profile!
 
 - 🔭 I'm a Full Stack Developer at [Hurb](https://www.linkedin.com/company/hurb/)
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/igorveludo/)
 
 <div>
