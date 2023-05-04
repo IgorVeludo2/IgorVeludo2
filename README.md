@@ -3,12 +3,6 @@
 - 🔭 I'm a Full Stack Developer at [Hurb](https://www.linkedin.com/company/hurb/)
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/igorveludo/)
-
-<div>
-  <a href="https://github.com/IgorVeludo2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorveludo2&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorveludo2&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
