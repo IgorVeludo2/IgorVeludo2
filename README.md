@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my profile!
 
 - 🔭 I'm a Full Stack Developer
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/igorveludo/)
   
 <div style="display: inline_block"><br>
